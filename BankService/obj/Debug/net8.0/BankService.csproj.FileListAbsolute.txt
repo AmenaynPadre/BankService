@@ -1,0 +1,14 @@
+C:\Users\narek\source\repos\BankService\BankService\bin\Debug\net8.0\BankService.exe
+C:\Users\narek\source\repos\BankService\BankService\bin\Debug\net8.0\BankService.deps.json
+C:\Users\narek\source\repos\BankService\BankService\bin\Debug\net8.0\BankService.runtimeconfig.json
+C:\Users\narek\source\repos\BankService\BankService\bin\Debug\net8.0\BankService.dll
+C:\Users\narek\source\repos\BankService\BankService\bin\Debug\net8.0\BankService.pdb
+C:\Users\narek\source\repos\BankService\BankService\obj\Debug\net8.0\BankService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narek\source\repos\BankService\BankService\obj\Debug\net8.0\BankService.AssemblyInfoInputs.cache
+C:\Users\narek\source\repos\BankService\BankService\obj\Debug\net8.0\BankService.AssemblyInfo.cs
+C:\Users\narek\source\repos\BankService\BankService\obj\Debug\net8.0\BankService.csproj.CoreCompileInputs.cache
+C:\Users\narek\source\repos\BankService\BankService\obj\Debug\net8.0\BankService.dll
+C:\Users\narek\source\repos\BankService\BankService\obj\Debug\net8.0\refint\BankService.dll
+C:\Users\narek\source\repos\BankService\BankService\obj\Debug\net8.0\BankService.pdb
+C:\Users\narek\source\repos\BankService\BankService\obj\Debug\net8.0\BankService.genruntimeconfig.cache
+C:\Users\narek\source\repos\BankService\BankService\obj\Debug\net8.0\ref\BankService.dll
